@@ -10,7 +10,7 @@
 <body>
     <div class="container-fluid pt-3">
     <?php
-    $filename = "solution.php";
+    $filename = "solutions.php";
 
     require_once $filename;
 
